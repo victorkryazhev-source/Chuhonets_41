@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Операция «Чухонец 41»",
+  "short_name": "Чухонец 41",
+  "description": "Мобильная квест-игра «Операция Чухонец 41»",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a0400",
+  "theme_color": "#1a0400",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
